@@ -17,8 +17,3 @@ The Student Management System is a Python console application designed to facili
 
 ## Getting Started
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/student-management-system.git
-   cd student-management-system
